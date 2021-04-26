@@ -1,0 +1,77 @@
+/* Write you CSS here */
+.question-container {
+  border-radius: 10px;
+  border: 1px solid lightgrey;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+.language-levels-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.easy {
+  font-size: 16px;
+  background-color: #16a34a16;
+  color: #16a34a;
+  margin-right: 10px;
+  border-radius: 10px;
+  padding: 6px 10px 6px 10px;
+}
+.medium {
+  font-size: 16px;
+  background-color: #d9770616;
+  color: #d97706;
+  margin-right: 10px;
+  border-radius: 10px;
+  padding: 6px 10px 6px 10px;
+}
+.hard {
+  font-size: 16px;
+  background-color: #dc262616;
+  color: #dc2626;
+  margin-right: 10px;
+  border-radius: 10px;
+  padding: 6px 10px 6px 10px;
+}
+.html {
+  font-size: 16px;
+  background-color: #0284c716;
+  color: #0284c7;
+  margin-right: 10px;
+  border-radius: 10px;
+  padding: 6px 10px 6px 10px;
+}
+.css {
+  font-size: 16px;
+  background-color: #9333ea16;
+  color: #9333ea;
+  margin-right: 10px;
+  border-radius: 10px;
+  padding: 6px 10px 6px 10px;
+}
+.javascript {
+  font-size: 16px;
+  background-color: #db277716;
+  color: #db2777;
+  margin-right: 10px;
+  border-radius: 10px;
+  padding: 6px 10px 6px 10px;
+}
+
+.arrow {
+  margin-left: 6px;
+}
+
+.btn {
+  outline: none;
+  border: 1px solid lightgrey;
+  border-radius: 4px;
+  padding: 4px 10px 4px 10px;
+  background-color: #fff;
+}
+
+.question {
+  font-size: 20px;
+  font-weight: bold;
+}
